@@ -2,6 +2,7 @@
 Links from KDCD Talk on Internet of Things
 
 * [Source from the talk](https://github.com/nodemcu/nodemcu-firmware/blob/master/lua_examples/http_server.lua)
+* [The Prezi](https://prezi.com/saczeso1r7na/internet-of-everything/)
 
 ## Manufacturers
 * [ESP8266 Wiki](http://www.esp8266.com/wiki/doku.php)
@@ -22,3 +23,6 @@ Links from KDCD Talk on Internet of Things
 ## Tools
 * [NodeMCU Flasher](https://github.com/nodemcu/nodemcu-flasher)
 * [NodeMCU Studio](https://github.com/nodemcu/nodemcu-studio-csharp)
+
+## Misc
+* [My PCB Board Etching Instructable](http://www.instructables.com/id/Tips-to-GreatQuick-DIY-PCB-Etching-youll-love/)
